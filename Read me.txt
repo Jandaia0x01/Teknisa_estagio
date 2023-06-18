@@ -1,0 +1,2 @@
+Neste repositório se encontram materiais feitos durante as aulas
+fornecidaas pela Teknisa em seu programa de estágio do nao de 2023 infelizmente não tive tempo de terminar os projetos dados em aula, mas commitarei mudanças ainda esta semana para que os projetos fiquem completos.
